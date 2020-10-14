@@ -1,0 +1,1 @@
+<?php if(!defined('BASEPATH'))exit('Directory access is forbidden.'); ?>

@@ -1,0 +1,1 @@
+/usr/bin/php -f /var/www/html/dev/cfs-center/TPSServices/ReadGetImporPermit.php
